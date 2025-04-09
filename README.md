@@ -14,6 +14,10 @@ Bienvenue sur mon profil GitHub !
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/inertia.js-1F2937?style=for-the-badge&logo=javascript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-0B5FFF?style=for-the-badge&logo=caddy&logoColor=white)
+
 
 ### 🎨 Design & Création :
 - Canva,GIMP
