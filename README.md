@@ -32,11 +32,6 @@ Bienvenue sur mon profil GitHub !
 ---
 
 
-## 📊 GitHub Stats:
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmoussaoui-dev&show_icons=true&theme=radical)
-](https://github.com/kami959?tab=stars)
-
 
 ## 🔗 Me Contacter
 
