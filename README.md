@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est KA Mi
+# 👋 Salut
 
 Bienvenue sur mon profil GitHub !
 
